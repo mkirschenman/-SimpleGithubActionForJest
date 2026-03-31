@@ -8,3 +8,9 @@ create a function and create a test
 
 use to setup git ignore
 https://www.youtube.com/watch?v=UB_JWx6uSac
+
+
+install eslint
+npm install --save-dev eslint@latest @eslint/js@latest
+then...
+npm init @eslint/config@latest

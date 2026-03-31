@@ -5,6 +5,6 @@ describe('an example test', () => {
         expect(simpleMathFunctionToTest(1, 2)).toBe(3);
     });
      it('first example test 2', () => {
-        expect(simpleMathFunctionToTest(2, 2)).toBe(4);
+        expect(simpleMathFunctionToTest(2, 2)).toBe(5);
     });
 });
